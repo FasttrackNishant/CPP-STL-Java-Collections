@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+target/
+build/
+
+# C++
+*.o
+*.exe
+*.out
+*.so
+*.dll
+*.a
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
