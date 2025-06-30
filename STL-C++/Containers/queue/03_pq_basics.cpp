@@ -52,5 +52,8 @@ int main() {
 
     cout << "Top element of min heap: " << minHeap.top() << endl; // 2  
 
+    // pop in pq
+    minHeap.pop(); // removes the top element (2)
+
     return 0;
 }
